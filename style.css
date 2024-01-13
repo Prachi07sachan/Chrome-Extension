@@ -1,0 +1,21 @@
+body {
+    min-width: 300px;
+    background-color: lightgreen;
+   font-style: normal;
+   display: flexbox;
+   
+       
+
+}
+
+/* body {
+    min-width: 300px;
+    background-color: lightgreen;
+    font-size: 18px; /* Adjust font size as needed */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  */
+
